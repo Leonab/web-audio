@@ -163,7 +163,7 @@ function cbButtonClick()
 		}
 		else
 		{
-			showError("Not an audio file", "The selected file does not match to the MIME-pattern: audio/*");
+			showError("Not an audio file", "The selected file does not match to MIME-pattern: audio/*");
 		}
 	}
 }
