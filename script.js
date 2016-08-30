@@ -29,7 +29,7 @@ var volumeAnimation = 0;
 
 window.onload = function()
 {
-	console && console.log("%cHTML5 Web Audio API Showcase\n%cA Fancy HTML5 Audio Visualizer based on Web Audio API\nCopyright 2015 NIPE-SYSTEMS\nFork this on GitHub: https://github.com/NIPE-SYSTEMS/html5-web-audio-showcase", "font-size: 1.5em; font-weight: bold;", "font-size: 1em;");
+	console && console.log("%cYello", "font-size: 1.5em; font-weight: bold;", "font-size: 1em;");
 	
 	window.AudioContext = window.AudioContext || window.webkitAudioContext || window.mozAudioContext || window.msAudioContext;
 	window.requestAnimationFrame = window.requestAnimationFrame || window.webkitRequestAnimationFrame || window.mozRequestAnimationFrame || window.msRequestAnimationFrame;
