@@ -4,6 +4,6 @@
 
 ### How to use
 
-1. Select an audio file
-2. Press "Play song"
-3. Modify the volume by scrolling on the circle canvas
+1. Select an audio file.
+2. Press "Play song".
+3. Modify the volume by scrolling on the circle canvas.
