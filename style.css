@@ -161,7 +161,6 @@ svg#heart path#heartShape
 	padding: 20px 20px 0 20px;
 	box-sizing: border-box;
 	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);
-	/*box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3);*/
 }
 
 #chooser h1
@@ -272,7 +271,6 @@ svg#heart path#heartShape
 	border-radius: 3px;
 	padding: 20px 20px 0 20px;
 	box-sizing: border-box;
-	/*box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.3);*/
 	box-shadow: 0 17px 17px 0 rgba(0, 0, 0, 0.15), 0 27px 55px 0 rgba(0, 0, 0, 0.3);
 	transition: transform 0.28s cubic-bezier(0.4, 0, 0.2, 1);
 	transform: translate(0, 0);
